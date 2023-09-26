@@ -21,6 +21,5 @@ In my free time I work on a wide range of projects. I like to make things and I 
 ## Some social-media websites
  
 [![Linkedin](/socials/linkedin.png)](https://www.linkedin.com/in/hatfieldscott/) 
-[![Twitter](/socials/twitter.png)](https://twitter.com/Toglefritz)
 [![YouTube](/socials/youtube.png)](https://www.youtube.com/channel/UCPwTW2X6HCcNpfAaq2JaBVg)
 [![My profile](/socials/profile.png)](https://toglefritz.com/)
