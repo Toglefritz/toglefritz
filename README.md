@@ -1,6 +1,6 @@
 ![I'm Scott, a Maker.](/github_profile_banner.png)
 
-# Hello, my name is Scott Hatfield :cookie:
+# Hello, my name is Scott Hatfield
 
 I am a [mobile application developer at Sub-Zero Group](/ScottHatfield_Resume.pdf).
 
