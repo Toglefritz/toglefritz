@@ -2,7 +2,7 @@
 
 # Hello, my name is Scott Hatfield
 
-I am a [mobile application developer at Sub-Zero Group](/ScottHatfield_Resume.pdf).
+I am a [Senior Software Engineer at Sub-Zero Group](/ScottHatfield_Resume.pdf).
 
 In my free time I work on a wide range of projects. I like to make things and I like to share my work with others. I like to take big, complicated projects, and break them down into simple steps that anybody can understand.
 
